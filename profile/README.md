@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Image -->
-  <img src="" alt="Banner Image">
+  <img src="https://github.com/ShiftSL/.github/blob/main/Banner.png" alt="Banner Image">
 
   <h1>💫 About Us</h1>
 </div>
