@@ -6,7 +6,7 @@
 </div>
 
 <p style="text-align: center; font-size: 18px; line-height: 1.6; font-family: 'Arial', sans-serif;">
-  👋 Hi there!
+  <h2>👋 Hi there!</h2>
   
   ShiftSL provides digital shift scheduling for Sri Lankan healthcare, aiming to improve efficiency, reduce administrative work, and enhance work-life balance for healthcare professionals, ultimately benefiting patient care.
 </p>
