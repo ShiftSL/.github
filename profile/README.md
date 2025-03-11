@@ -2,11 +2,11 @@
   <!-- Banner Image -->
   <img src="https://github.com/ShiftSL/.github/blob/main/Banner.png" alt="Banner Image">
 
-  <h1>💫 About Us</h1>
+  <h1>👋 Hi there!</h1>
 </div>
 
 <p style="text-align: center; font-size: 18px; line-height: 1.6; font-family: 'Arial', sans-serif;">
-  <h2>👋 Hi there!</h2>
+  <h2>💫 About Us</h2>
   
   ShiftSL provides digital shift scheduling for Sri Lankan healthcare, aiming to improve efficiency, reduce administrative work, and enhance work-life balance for healthcare professionals, ultimately benefiting patient care.
 </p>
